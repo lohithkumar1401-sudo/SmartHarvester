@@ -1,26 +1,12 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
 # SmartHarvester
-Developed a web application that predicts optimal crop harvest time based on climate conditions and market price trends.
->>>>>>> 4f2894aaa1a6d3daecf4c30907bee10aa1f5639d
-=======
-# SmartHarvester
-A Smart Harvester is an advanced agricultural machine that uses modern technologies such as sensors, automation, and data analysis to harvest crops efficiently. It is designed to reduce human labor, increase productivity, and minimize crop loss during harvesting.
->>>>>>> e0a61d9e031971fc943ef13a1db89e0886d15ad1
+
+SmartHarvester is a web application developed using React and Vite that predicts the optimal crop harvest time based on climate conditions and market price trends.
+
+## Technologies Used
+- React
+- Vite
+- JavaScript
+- CSS
+
+## Description
+A Smart Harvester is an advanced agricultural system that helps farmers determine the best time to harvest crops. It analyzes environmental factors such as weather conditions and market trends to improve productivity, reduce crop loss, and support smarter farming decisions.
