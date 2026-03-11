@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -19,3 +20,7 @@ If you are developing a production application, we recommend using TypeScript wi
 # SmartHarvester
 Developed a web application that predicts optimal crop harvest time based on climate conditions and market price trends.
 >>>>>>> 4f2894aaa1a6d3daecf4c30907bee10aa1f5639d
+=======
+# SmartHarvester
+A Smart Harvester is an advanced agricultural machine that uses modern technologies such as sensors, automation, and data analysis to harvest crops efficiently. It is designed to reduce human labor, increase productivity, and minimize crop loss during harvesting.
+>>>>>>> e0a61d9e031971fc943ef13a1db89e0886d15ad1
